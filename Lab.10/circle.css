@@ -1,6 +1,6 @@
 .circle{
     border-radius: 50%;
-    border: red solid 3px;
+    border: rgb(198, 227, 12) solid 3px;
     padding: 1px;
     text-align: center;
 }
